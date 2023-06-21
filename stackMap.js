@@ -1,5 +1,3 @@
-//https://completejavascript.com/trien-khai-stack-trong-javascript-voi-array-object-hay-map/
-
 class MStack {
   constructor(capability) {
     this.data = new Map();
