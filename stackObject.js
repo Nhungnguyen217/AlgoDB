@@ -1,5 +1,3 @@
-//https://completejavascript.com/trien-khai-stack-trong-javascript-voi-array-object-hay-map/
-
 class OStack {
   constructor(capability) {
     this.data = {};
